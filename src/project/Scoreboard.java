@@ -24,7 +24,7 @@ public class Scoreboard {
 	 */
 	public void displayScoreboard(Vector<Player> players) {
 		
-		System.out.println("WELCOME TO BRIGHT HEALTH BOWLING ALLEY\n"
+		System.out.println("WELCOME TO THE BOWLING ALLEY\n"
 				+ "=====================================================");
 		
 		for(int i = 0; i < players.size(); i++) {
