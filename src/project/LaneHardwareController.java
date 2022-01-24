@@ -4,7 +4,7 @@ package project;
 // Author      : Alexander Diop
 // Created     : 12/6/21
 // Version     : 0.0.1
-// Project     : Bright Health Bowling
+// Project     : Bowling App
 // Description : Class object for the physical device in the bowling alley that counts pins
 //
 //
